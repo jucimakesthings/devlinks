@@ -35,7 +35,7 @@ body {
     abaixo isso feito em atalho, de forma simplificada
     */
 
-    background: var(--bg-url) no-repeat top center /auto;
+    background: var(--bg-url) no-repeat top center /cover;
     height: 100vh;
 }
 
